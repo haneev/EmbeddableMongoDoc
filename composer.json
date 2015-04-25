@@ -1,0 +1,22 @@
+{
+    "name": "spull/mongorelation",
+    "description": "MongoDB relational updates and embedding",
+    "authors": [
+        {
+            "name": "Han van der Veen",
+            "email": "han@haneev.nl"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "yiisoft/yii": "dev-master",
+        "sammaye/mongoyii": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+            "protected/"
+        ]
+    }
+}
